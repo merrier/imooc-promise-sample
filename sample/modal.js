@@ -1,4 +1,4 @@
-// 把任何异步操作包装秤Promise
+// 把任何异步操作包装成Promise
 // https://www.imooc.com/video/16629
 
 
